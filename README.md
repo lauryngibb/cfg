@@ -1,1 +1,2 @@
 # cfg
+# hiking group 
